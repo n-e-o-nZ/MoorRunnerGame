@@ -42,7 +42,7 @@ class PlayState extends FlxState
     var buttonSound:FlxSound;
     var rocksHitSound:FlxSound;
 
-    var currentLevel=5;
+    var currentLevel=1;
 
     override public function create()
     {
